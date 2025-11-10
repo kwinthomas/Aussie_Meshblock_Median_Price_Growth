@@ -43,7 +43,10 @@ cd Aussie_Meshblock_Median_Price_Growth
 ```
 
 2.	Install required Python packages:
+
+```bash
 pip install pandas matplotlib
+```
 
 3. Make sure data files are in the project folder:
 gnaf_prop.parquet
