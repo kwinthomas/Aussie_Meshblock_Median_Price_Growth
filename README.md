@@ -49,8 +49,8 @@ pip install pandas matplotlib
 ```
 
 3. Make sure data files are in the project folder:
-gnaf_prop.parquet
-transactions.parquet
+* gnaf_prop.parquet
+* transactions.parquet
 
 4. Run the analysis script:
 python analysis.py
