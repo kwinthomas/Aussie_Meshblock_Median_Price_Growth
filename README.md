@@ -53,7 +53,10 @@ pip install pandas matplotlib
 * transactions.parquet
 
 4. Run the analysis script:
+
+```bash
 python analysis.py
+```
 
 This will generate:
 1) median_price_growth_by_mesh_block.csv: the main output with median prices, sales counts, and YoY growth.
